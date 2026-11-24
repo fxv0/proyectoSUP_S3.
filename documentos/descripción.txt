@@ -1,2 +1,2 @@
 Franco Marchant 3°D
-Este proyecto muestra
+Este proyecto te pregunta cual es tu lenguaje de programacion favorito y cuanto tiempo llevas programando
